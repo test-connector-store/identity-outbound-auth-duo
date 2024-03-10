@@ -10,6 +10,12 @@
     "Twofactor"
   ],
   "releases":[
-    
+    {
+      "tagName":"1.0.5",
+      "products":[
+        "EI 6.6.0",
+        "MI 1.2.0"
+      ]
+    }
   ]
 }
