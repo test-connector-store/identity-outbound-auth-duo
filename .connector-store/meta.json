@@ -15,7 +15,8 @@
       "products":[
         "EI 6.6.0",
         "MI 1.2.0"
-      ]
+      ],
+      "isDeprecated": false
     },
     {
       "tagName":"release-02",
