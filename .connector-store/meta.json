@@ -9,5 +9,10 @@
         "Token",
         "Twofactor"
     ],
-    "releases": []
+    "releases": [
+        {
+            "tagName": "release-02",
+            "labels": ["Label 01"]
+        }
+    ]
 }
